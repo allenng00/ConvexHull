@@ -149,9 +149,6 @@
     <ClInclude Include="..\..\..\Giải thuật\LAB\PT_TKGT_LABS\Bonus\Point2DSet.h" />
     <ClInclude Include="..\..\..\Giải thuật\LAB\PT_TKGT_LABS\Bonus\Vector2D.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\Giải thuật\LAB\PT_TKGT_LABS\Bonus\points.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

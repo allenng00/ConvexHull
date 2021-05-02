@@ -39,7 +39,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\Giải thuật\LAB\PT_TKGT_LABS\Bonus\points.txt" />
-  </ItemGroup>
 </Project>
